@@ -1,0 +1,35 @@
+// operator overloading
+
+// unary : +5, -5, 10++, 
+// binary : 2 + 5 
+
+// obj1 + obj2 // this cause an error because '+' is not designed to add
+// objects, it is designed to add built in data type  like int a, int b;
+
+// to avoid this problem we need to use operator overloading concept
+// with operator overloading we can add two user defined data type 
+//   Obj1 + Obj2
+
+// we can overload all the c++ operator except scope operator '::'
+// we can't overload    .    and     .*
+// we can't overload conditional operator '?' ':'
+
+
+// syntax: 
+
+// function:
+// return_type  function_name(arg_list) {
+//     //......
+//     // ......
+
+//     return value;
+// }
+
+// operator overloading: 
+
+// return_type  operator  symbol(arg_list) {
+//     //......;
+//     //......;
+
+//     return value;
+// }

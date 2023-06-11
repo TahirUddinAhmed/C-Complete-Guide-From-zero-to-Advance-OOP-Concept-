@@ -1,0 +1,24 @@
+access modifiers;
+   1. Private
+   2. Protected
+   3. Public
+
+
+ 1. A constructor is just a method but unlike other methods
+constructor doesn't have a return type
+ 2. Constructor has the same name as the class
+ 3. Constructor must be declared in the public area
+
+OOP concept:
+ 1. Encapsulation
+ 2. Abstraction
+ 3. Inheritace
+ 4. Polymorphism
+
+
+Abstraction means hiding complex thing behind procedure that makes
+those thing look simple
+
+Polymorphism : the word comes from greek language it is a compound of 
+poly and morph which means many forms and in programming Polymorphism describes the
+ability of an object or a method to have many forms
