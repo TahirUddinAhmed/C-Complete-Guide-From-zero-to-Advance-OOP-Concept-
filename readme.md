@@ -5,16 +5,16 @@ Welcome to the **C++ Complete Guide** repository, maintained by Tahir Uddin Ahme
 
 ### Table Of Content 
 - [Introduction to C++](basic/)
-- [Operators](#Operators)
-- [Control Statements](#constrol_statement)
-- [Type Casting](#typecasting)
-- [Functions](#functions)
-- [Loops](#loops)
-- [Arrays](#array)
-- [Pointers](#pointers)
-- [Strings](#string)
-- [Object-Oriented Programming](#OOP)
-- [FreeCodeCamp](#freeCodeCamp)
+- [Operators](operators/)
+- [Control Statements](constrol_statement/)
+- [Type Casting](typecasting/)
+- [Functions](functions/)
+- [Loops](loops/)
+- [Arrays](array/)
+- [Pointers](pointers/)
+- [Strings](strings/)
+- [Object-Oriented Programming](OOP/)
+- [FreeCodeCamp](freeCodeCamp/)
 
 
   ## About the Author
