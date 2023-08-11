@@ -4,15 +4,18 @@
 Welcome to the **C++ Complete Guide** repository, maintained by Tahir Uddin Ahmed. This repository is designed to be your comprehensive resource for learning and mastering the C++ programming language. Whether you're a beginner getting started with C++ or an experienced developer aiming to deepen your understanding, this guide has got you covered.
 
 ### Table Of Content 
-- [Introduction to C++](#basic)
-- [Basic Syntax](#basic-syntax)
-- [Data Types](#data-types)
-- [Control Statements](#control-statements)
+- [Introduction to C++](basic/)
+- [Operators](#Operators)
+- [Control Statements](#constrol_statement)
+- [Type Casting](#typecasting)
 - [Functions](#functions)
-- [Object-Oriented Programming](#object-oriented-programming)
-- [Templates and Generic Programming](#templates-and-generic-programming)
-- [STL - Standard Template Library](#stl---standard-template-library)
-- [Advanced Topics](#advanced-topics)
+- [Loops](#loops)
+- [Arrays](#array)
+- [Pointers](#pointers)
+- [Strings](#string)
+- [Object-Oriented Programming](#OOP)
+- [FreeCodeCamp](#freeCodeCamp)
+
 
   ## About the Author
 
