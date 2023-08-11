@@ -4,7 +4,7 @@
 Welcome to the **C++ Complete Guide** repository, maintained by Tahir Uddin Ahmed. This repository is designed to be your comprehensive resource for learning and mastering the C++ programming language. Whether you're a beginner getting started with C++ or an experienced developer aiming to deepen your understanding, this guide has got you covered.
 
 ### Table Of Content 
-- [Introduction to C++](#introduction-to-c)
+- [Introduction to C++](#basic)
 - [Basic Syntax](#basic-syntax)
 - [Data Types](#data-types)
 - [Control Statements](#control-statements)
