@@ -19,13 +19,13 @@ Welcome to the **C++ Complete Guide** repository, maintained by Tahir Uddin Ahme
 
   ## About the Author
 
-My name is Tahir Uddin Ahmed, and I'm passionate about programming and sharing my knowledge with the community. I have years of experience working with C++ and have developed this guide to help individuals of all skill levels learn and excel in this versatile programming language.
+I am Tahir Uddin Ahmed, currently studying BCA. I am a web developer with a strong passion for programming and technology. I have years of experience working with various programming languages and web development frameworks. As an enthusiast for learning and sharing knowledge, I have developed this comprehensive guide to help individuals of all skill levels learn and excel in the C++ programming language.
 
 ## Social Links
 
 Connect with me on social media for more programming tutorials, tips, and updates:
 
 - Twitter: [@TahirUddinAhmed](https://twitter.com/TahirUddinAhmed)
-- Personal Website: [www.tahiruddinahmed.com]([https://www.tahiruddinahmed.com](http://tahirs.lovestoblog.com/))
+- Personal Website: [www.tahiruddinahmed.com](http://tahirs.lovestoblog.com/))
 
 Feel free to reach out, ask questions, and engage in discussions. Let's learn and grow together!
